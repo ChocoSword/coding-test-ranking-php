@@ -52,30 +52,30 @@ margin-bottom: 10px;
   width: 380px;  
 }
 
-.rowTitulo {
+.colTitulo {
   padding-top: 3px;
   padding-bottom: 3px;
   height: 40px;
   max-height: 40px; 
 }
-.rowPrecio {
+.colPrecio {
   padding-bottom: 3px;
   height: 40px;
   max-height: 40px;      
 }
-.rowInfoCorto {  
+.colInfoCorto {  
   padding-bottom: 3px;
   height: 30px;
   max-height: 30px; 
 }
 
-.rowInfoDetalle {  
+.colInfoDetalle {  
   padding-bottom: 33px;
   height: 60px;
   max-height: 60px; 
 }
 
-.rowFooter{
+.colFooter{
   height: 30px;
   max-height: 30px;
 }
