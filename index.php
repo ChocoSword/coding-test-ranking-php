@@ -1,5 +1,16 @@
 <?php
-include_once "./include/master.php";
+
+// include "./include/config.php";
+// include "./bd/BDConnection.php";
+// include "./bd/BDAnuncio.php";
+
+// $bd = (new BDConnection())->connect();
+// $anuncio = (new BDAnuncio($bd))->getAllAnuncios();
+
+// var_dump($anuncio);
+
+
+
 ?>
 
 <!DOCTYPE html>
@@ -19,8 +30,6 @@ include_once "./include/master.php";
 
 <body>
 
-
-
     <div class="container">
 
         <div id="navbar" class="row">
@@ -35,12 +44,8 @@ include_once "./include/master.php";
             </div>
         </div>
 
-        <div id="contenidoDinamico" class="row">
-
-
-        </div>
-
-
+        <div id="contenidoDinamico" class="row"> </div>
+        
     </div>
 </body>
 

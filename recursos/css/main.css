@@ -11,8 +11,6 @@ label {
    -webkit-box-orient: vertical;
 }
 
-
-
 #navbar {
 margin-top: 50px;
 background-color: #DCEF6D;
@@ -33,23 +31,21 @@ margin-bottom: 10px;
 }
 
 .rowAnuncio {
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 20px;
 }
 
 .colImagen {
   padding-left: 0px;
   padding-right: 0px;
-  height: 200px;
+  height: 195px;
+  width: 280px;
 }
 
 .colTexto{
   background-color: #FFFFFF;
   border-style: 3px solid;  
-}
-
-.imagenAnuncio {
-  height: 200px;
-  width: 380px;  
 }
 
 .colTitulo {
